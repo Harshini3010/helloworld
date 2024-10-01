@@ -5,4 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 
-Added new changes to README from Github
+Added new changes to README from local & pushing to github (update-readme branch)
